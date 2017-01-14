@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+ h1 {
+  color: white;
+  text-align: center;
+  font-size: 70px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+}
+
+#data {
+  text-align: center;
+  color: white;
+}
