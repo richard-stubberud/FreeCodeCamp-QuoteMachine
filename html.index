@@ -1,0 +1,12 @@
+<head></head>
+
+<body>
+  
+<div class="main-div">
+  <div id="headline">
+  <h1>Free Code Camp Weather App</h1>
+    </div>
+  
+ <div id=data>
+   <h4>test:</h4>
+   </div>
